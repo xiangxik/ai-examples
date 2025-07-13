@@ -1,0 +1,4 @@
+nest_asyncio
+llama-index-core
+llama-index
+llama-index-llms-lmstudio

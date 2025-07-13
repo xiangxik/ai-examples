@@ -1,0 +1,7 @@
+mcp
+argparse
+asyncio
+llama_index
+llama-index-core
+llama-index-llms-lmstudio
+llama-index-tools-mcp
